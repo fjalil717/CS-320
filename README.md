@@ -1,1 +1,1 @@
-# CS-320
+Repository for git setup, Faaiz Jalil
